@@ -1,1 +1,1 @@
-# Sorteador-de-n-mero-
+# Sorteador-de-numero
